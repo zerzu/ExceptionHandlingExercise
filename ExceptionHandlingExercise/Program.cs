@@ -24,7 +24,7 @@ namespace ExceptionHandlingExercise
 
 
             //TODO START HERE:
-
+            
             //Make a foreach loop to iterate through your character array
             foreach (var item in arr)
             {
